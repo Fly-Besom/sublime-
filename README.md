@@ -8,13 +8,13 @@
 ###### 1.全局命令下，输入【ctrl+shift+p】，打开 Command Palette
 ######2.输入install找到：Package Control:Install回车，等待加载 package 列表
 
-![41462e11d6721e41abac28e64bd19efb](C:\Users\飞天大扫把\Desktop\sublime安装教程\41462e11d6721e41abac28e64bd19efb.png)
+![41462e11d6721e41abac28e64bd19efb](.\img\41462e11d6721e41abac28e64bd19efb.png)
 
 ######安装插件中左下角有个“=”在动，安装好了就会消失
-![ebfca1ac4efa144aa2cad5940d112837](C:\Users\飞天大扫把\Desktop\sublime安装教程\ebfca1ac4efa144aa2cad5940d112837.png)
+![ebfca1ac4efa144aa2cad5940d112837](.\img\ebfca1ac4efa144aa2cad5940d112837.png)
 ######3.Package Control:Install安装后就进入插件搜索了
 
-![b1a3eb5bb7a26e4a8439bb817e8db9f1](C:\Users\飞天大扫把\Desktop\sublime安装教程\b1a3eb5bb7a26e4a8439bb817e8db9f1.png)
+![b1a3eb5bb7a26e4a8439bb817e8db9f1](.\img\b1a3eb5bb7a26e4a8439bb817e8db9f1.png)
 
 ######4.汉化插件：ChineseLocaization，安装好了选择帮助language选择中文简体就OK了
 
@@ -28,18 +28,18 @@
 ###1、emmet
 ####Emmet插件可以说是使用Sublime Text进行前端开发必不可少的插件，它让编写HTML代码变得极其简单高效
 
-####![o_4-1](C:\Users\飞天大扫把\Desktop\sublime安装教程\o_4-1.gif)
+####![o_4-1](.\img\o_4-1.gif)
 
 ###2、JsFormat插件
 ####这是一款将JS格式化的插件，同样使用Package Control安装JsFormat插件后即可在JS文件中通过鼠标右键->JsFormat或键盘快捷键Ctrl+Alt+F对JS进格式化
 
-![o_5-2](C:\Users\飞天大扫把\Desktop\sublime安装教程\o_5-2.gif)
+![o_5-2](.\img\o_5-2.gif)
 
 ###3、SideBarEnhancements插件
 ####SideBarEnhancements是一款很实用的右键菜单增强插件，在安装该插件前，在Sublime Text左侧FOLDERS栏中点击右键只有寥寥几个简单的功能
-####安装前![o_6-1](C:\Users\飞天大扫把\Desktop\sublime安装教程\o_6-1.jpg)
+####安装前![o_6-1](.\img\o_6-1.jpg)
 
-####安装后![o_6-2](C:\Users\飞天大扫把\Desktop\sublime安装教程\o_6-2.jpg)
+####安装后![o_6-2](.\img\o_6-2.jpg)
 
 ###4、总之sublime插件很多，我就不一一列举了，你只需要点开百度（www.baidu.com） 搜索一下就行了，合适自己的才是最好的。
 
@@ -47,15 +47,15 @@
 
 ##推荐两款喜欢的主题(theme)
 ###Dracula Color Scheme(最喜欢的一种主题)
-![20171027195537](C:\Users\飞天大扫把\Desktop\sublime安装教程\20171027195537.png)
+![20171027195537](.\img\20171027195537.png)
 
 ###Material Theme(这个是带侧边栏的)
 
-![_20171027195931](C:\Users\飞天大扫把\Desktop\sublime安装教程\_20171027195931.png)
+![_20171027195931](.\img\_20171027195931.png)
 
 ###图标插件：A file Icon
 
-![20171027200248](C:\Users\飞天大扫把\Desktop\sublime安装教程\20171027200248.png)
+![20171027200248](.\img\20171027200248.png)
 
 ####(注释：主题千千万，还是安装自己喜欢的吧！ 安装主题也是和安装插件的方法一样，安装好后选择首选项=>配色方案，然后自行选择)
 
